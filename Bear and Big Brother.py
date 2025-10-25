@@ -8,4 +8,4 @@ while a <= b:
     b *= 2      
     years += 1 
 
-print(years)  
+print(years)  //print the year
